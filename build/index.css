@@ -1,0 +1,12 @@
+html,body {
+	padding: 0;
+	margin: 0;
+	outline: none;
+}
+#content{
+	width: 800px;
+	height: 640px;
+	background-color: #000;
+	color: #fff;
+	margin: 0 auto;
+}
