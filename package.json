@@ -1,0 +1,16 @@
+{
+  "name": "electron-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "electron.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-linux-x64": "electron-packager ./ interface --platform=linux --arch=x64 --electron-version=6.0.12 --overwrite=true --ignore=node_modules"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^6.0.12",
+    "electron-packager": "^14.0.6"
+  }
+}

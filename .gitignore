@@ -1,0 +1,4 @@
+build
+node_modules
+interface-linux-x64/
+interface-darwin-x64/
